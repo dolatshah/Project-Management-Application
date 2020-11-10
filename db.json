@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    {
+      "title": "Something",
+      "category": "34sd45twfer",
+      "id": "g2pc01w5zjwtkx5kr",
+      "status": "INCOMPLETE",
+      "createdDate": "2019-06-12T18:40:10.874Z"
+    },
+    {
+      "title": "New Task",
+      "category": "4jh54t45",
+      "id": "g2pc01y8mjwtnv1l7",
+      "status": "INCOMPLETE",
+      "createdDate": "2019-06-12T20:02:31.242Z"
+    },
+    {
+      "title": "New task",
+      "category": "4jh54t45",
+      "id": "g2pc01y8mjwtnv81e",
+      "status": "INCOMPLETE",
+      "createdDate": "2019-06-12T20:02:39.602Z"
+    },
+    {
+      "title": "asdfasdfa",
+      "category": "4jh54t45",
+      "id": "g2pc01y8mjwto4ba0",
+      "status": "COMPLETE",
+      "createdDate": "2019-06-12T20:09:43.704Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "4jh54t45",
+      "name": "Home",
+      "color": "#ffcc00"
+    },
+    {
+      "id": "34sd45twfer",
+      "name": "Work",
+      "color": "green"
+    },
+    {
+      "id": "awer54ytdf4",
+      "name": "Family",
+      "color": "blue"
+    }
+  ]
+}
